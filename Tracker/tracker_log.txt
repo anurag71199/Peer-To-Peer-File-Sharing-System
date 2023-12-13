@@ -1,0 +1,65 @@
+
+----------------------------------------------------------------
+Listening...
+
+----------------------------------------------------------------
+Listening...
+Connection Accepted for client socket: 5
+Listening...
+Client request string : create_user a a
+File users.txt not found!
+
+----------------------------------------------------------------
+Listening...
+Connection Accepted for client socket: 5
+Listening...
+Client request string : login a a
+Login Successful: 5
+Peer Address: 127.0.0.1:8080
+Client request string : create_group 1
+Client request string : upload_file /home/anurag/IIITH/P2P/client1/testfile.txt 1
+
+----------------------------------------------------------------
+Listening...
+Connection Accepted for client socket: 5
+Listening...
+Client request string : login a a
+Login Successful: 5
+Peer Address: 127.0.0.1:8080
+Client request string : create_group 1
+Client request string : upload_file /home/anurag/IIITH/P2P/client1/testfile.txt 1
+Connection Accepted for client socket: 6
+Listening...
+Client request string : login b b
+Client request string : create_user b b
+bcreated
+Client request string : login b b
+Login Successful: 6
+Peer Address: 127.0.0.2:8081
+Client request string : join_group 1
+Client request string : accept_request 1 b
+Client request string : download_file 1 testfile.txt /home/anurag/IIITH/P2P/client2
+----Thread ended for client socket: 6----Thread ended for client socket: 5Connection Accepted for client socket: 7
+Listening...
+Client request string : login a a
+Login Successful: 7
+Peer Address: 127.0.0.1:8080
+Client request string : create_group 1
+Client request string : upload_file /home/anurag/IIITH/P2P/client1/anothertest.txt 1
+Connection Accepted for client socket: 5
+Listening...
+Client request string : login b b
+Login Successful: 5
+Peer Address: 127.0.0.2:8081
+Client request string : download_file 1 anothertest.txt /home/anurag/IIITH/P2P/client2
+
+----------------------------------------------------------------
+Listening...
+Connection Accepted for client socket: 5
+Listening...
+Client request string : create_user a a
+Client request string : login a a
+Login Successful: 5
+Peer Address: 127.0.0.1:8080
+Client request string : create_group 1
+----Thread ended for client socket: 5

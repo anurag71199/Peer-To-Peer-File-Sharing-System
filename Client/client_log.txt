@@ -1,0 +1,77 @@
+
+Start Logger
+Connected to tracker
+Client is listening
+Calling command_func
+
+Start Logger
+Connected to tracker
+Client is listening
+Calling command_func
+Login successful
+Calling command_func
+Group created
+Calling command_func
+
+Start Logger
+Client is listening
+Connected to tracker
+Calling command_func
+Login successful
+Calling command_func
+Group created
+Calling command_func
+
+Start Logger
+Connected to tracker
+Client is listening
+Calling command_func
+Username/Password incorrect
+Calling command_func
+Calling command_func
+Login successful
+Calling command_func
+Request to join group sent
+Calling command_func
+User added in group
+Calling command_func
+Accepted for : 5
+Client is listening
+Accepted for : 6
+Client is listening
+Accepted for : 5
+Client is listening
+
+Start Logger
+Connected to tracker
+Client is listening
+Calling command_func
+Login successful
+Calling command_func
+Group already exists
+Calling command_func
+
+Start Logger
+Connected to tracker
+Client is listening
+Calling command_func
+Login successful
+Calling command_func
+Accepted for : 5
+Client is listening
+Accepted for : 6
+Client is listening
+Accepted for : 5
+Client is listening
+
+Start Logger
+
+Start Logger
+Connected to tracker
+Client is listening
+Calling command_func
+Calling command_func
+Login successful
+Calling command_func
+Group created
+Calling command_func
